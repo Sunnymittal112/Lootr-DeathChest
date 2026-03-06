@@ -1,0 +1,7 @@
+death-chest:
+
+  remove-time: 300
+
+  hologram: true
+
+  protect-owner: true
