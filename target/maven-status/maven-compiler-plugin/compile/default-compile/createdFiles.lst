@@ -1,0 +1,5 @@
+com\lootr\deathchest\listeners\PlayerDeathListener.class
+com\lootr\deathchest\utils\ChestUtils.class
+com\lootr\deathchest\LootrDeathChest.class
+com\lootr\deathchest\listeners\ChestInteractListener.class
+com\lootr\deathchest\manager\DeathChestManager.class

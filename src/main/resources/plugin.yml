@@ -1,0 +1,11 @@
+name: LootrDeathChest
+version: 1.3
+main: com.lootr.deathchest.LootrDeathChest
+api-version: 1.21
+author: FeTaL
+description: Death chest plugin compatible with Lootr
+
+permissions:
+  deathchest.admin:
+    description: Death chest locations 
+    default: op
